@@ -50,5 +50,9 @@
     "mocha": "^10.2.0",
     "typescript": "^5.2.2",
     "@vscode/test-electron": "^2.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/awakair/timetobreak.git"
   }
 }
