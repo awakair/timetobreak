@@ -1,10 +1,10 @@
-### TimeToBreak extension
+# TimeToBreak extension
 
 Did you know that sitting for a long time without moving is harmful to your health? Decision is here!
 
 TimeToBreak will warn you, when you need to stop coding ang go for a walk
 
-# Commands
+## Commands
 Start codding - starts timer <br>
 Stop codding - stops timer until you return to code <br>
 Kill break timer - stops timer **at all** <br>
