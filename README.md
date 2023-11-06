@@ -9,3 +9,5 @@ Start codding - starts timer <br>
 Stop codding - stops timer until you return to code <br>
 Kill break timer - stops timer **at all** <br>
 Change time between breaks - it's the way to change timer to your own time
+
+Выполнил Сухов Дмитрий Валерьевич с направления ИС (ИТМО) группы M3102 в качестве лабораторной работы № 4 по дисциплине ИСРПО (2023)
